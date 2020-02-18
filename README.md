@@ -5,5 +5,5 @@ This is a new my repository
 * Bijaksana dan 
 * Dapat memcahkan masalah
 
-#Link Example
-[CodeTime](https://wwww.codetime.io)
+# Link Example
+[CodeTime](https://www.codetime.io)
