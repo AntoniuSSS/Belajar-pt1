@@ -7,3 +7,7 @@ This is a new my repository
 
 # Link Example
 [CodeTime](https://www.codetime.io)
+
+1. Item one
+2. Item Two
+3. Item Three
